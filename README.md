@@ -1,0 +1,1 @@
+# -security-clipboard-clear-only-owned-clip
